@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lab4/1.0.0": {
+        "dependencies": {
+          "Lec04Libn": "1.0.0"
+        },
+        "runtime": {
+          "lab4.dll": {}
+        }
+      },
+      "Lec04Libn/1.0.0": {
+        "runtime": {
+          "Lec04Libn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lec04Libn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

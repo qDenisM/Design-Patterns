@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PP03", "lab3\PP03.csproj", "{14B0DD54-9EAF-48C5-B00A-CDE3A548FC30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lec03LibN", "Lec03Blib\Lec03LibN.csproj", "{6903DF4E-DBAD-4692-8EC2-4C2E2309823E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14B0DD54-9EAF-48C5-B00A-CDE3A548FC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B0DD54-9EAF-48C5-B00A-CDE3A548FC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B0DD54-9EAF-48C5-B00A-CDE3A548FC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B0DD54-9EAF-48C5-B00A-CDE3A548FC30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6903DF4E-DBAD-4692-8EC2-4C2E2309823E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6903DF4E-DBAD-4692-8EC2-4C2E2309823E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6903DF4E-DBAD-4692-8EC2-4C2E2309823E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6903DF4E-DBAD-4692-8EC2-4C2E2309823E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F902CE38-8D34-45AC-876A-9072A4F9102B}
+	EndGlobalSection
+EndGlobal

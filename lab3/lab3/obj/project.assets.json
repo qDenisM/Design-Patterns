@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Lec03LibN/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Lec03LibN.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lec03LibN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lec03LibN/1.0.0": {
+      "type": "project",
+      "path": "../Lec03Blib/Lec03LibN.csproj",
+      "msbuildProject": "../Lec03Blib/Lec03LibN.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Lec03LibN >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\qdenni\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\qdenni\\OneDrive\\Рабочий стол\\DP\\lab3\\lab3\\PP03.csproj",
+      "projectName": "PP03",
+      "projectPath": "C:\\Users\\qdenni\\OneDrive\\Рабочий стол\\DP\\lab3\\lab3\\PP03.csproj",
+      "packagesPath": "C:\\Users\\qdenni\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\qdenni\\OneDrive\\Рабочий стол\\DP\\lab3\\lab3\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\qdenni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\qdenni\\OneDrive\\Рабочий стол\\DP\\lab3\\Lec03Blib\\Lec03LibN.csproj": {
+              "projectPath": "C:\\Users\\qdenni\\OneDrive\\Рабочий стол\\DP\\lab3\\Lec03Blib\\Lec03LibN.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

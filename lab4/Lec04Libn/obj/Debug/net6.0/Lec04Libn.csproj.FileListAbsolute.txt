@@ -1,0 +1,11 @@
+C:\Users\qdenni\OneDrive\Рабочий стол\DP\lab4\Lec04Libn\bin\Debug\net6.0\Lec04Libn.deps.json
+C:\Users\qdenni\OneDrive\Рабочий стол\DP\lab4\Lec04Libn\bin\Debug\net6.0\Lec04Libn.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\DP\lab4\Lec04Libn\bin\Debug\net6.0\Lec04Libn.pdb
+C:\Users\qdenni\OneDrive\Рабочий стол\DP\lab4\Lec04Libn\obj\Debug\net6.0\Lec04Libn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qdenni\OneDrive\Рабочий стол\DP\lab4\Lec04Libn\obj\Debug\net6.0\Lec04Libn.AssemblyInfoInputs.cache
+C:\Users\qdenni\OneDrive\Рабочий стол\DP\lab4\Lec04Libn\obj\Debug\net6.0\Lec04Libn.AssemblyInfo.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\DP\lab4\Lec04Libn\obj\Debug\net6.0\Lec04Libn.csproj.CoreCompileInputs.cache
+C:\Users\qdenni\OneDrive\Рабочий стол\DP\lab4\Lec04Libn\obj\Debug\net6.0\Lec04Libn.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\DP\lab4\Lec04Libn\obj\Debug\net6.0\refint\Lec04Libn.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\DP\lab4\Lec04Libn\obj\Debug\net6.0\Lec04Libn.pdb
+C:\Users\qdenni\OneDrive\Рабочий стол\DP\lab4\Lec04Libn\obj\Debug\net6.0\ref\Lec04Libn.dll
